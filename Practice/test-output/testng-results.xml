@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28973" started-at="2018-10-04T12:02:47Z" finished-at="2018-10-04T12:03:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28973" started-at="2018-10-04T12:02:47Z" finished-at="2018-10-04T12:03:16Z">
+      <class name="practice_qs.Waits">
+        <test-method status="PASS" signature="browser_launch()[pri:0, instance:practice_qs.Waits@5e5792a0]" name="browser_launch" is-config="true" duration-ms="8876" started-at="2018-10-04T17:32:47Z" finished-at="2018-10-04T17:32:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_launch -->
+        <test-method status="PASS" signature="test_case()[pri:0, instance:practice_qs.Waits@5e5792a0]" name="test_case" duration-ms="17746" started-at="2018-10-04T17:32:56Z" finished-at="2018-10-04T17:33:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_case -->
+        <test-method status="PASS" signature="browser_close()[pri:0, instance:practice_qs.Waits@5e5792a0]" name="browser_close" is-config="true" duration-ms="2330" started-at="2018-10-04T17:33:14Z" finished-at="2018-10-04T17:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_close -->
+      </class> <!-- practice_qs.Waits -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
